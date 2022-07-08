@@ -3,6 +3,7 @@
   margin:0;
 }
 
+
 .top-head{
 
   padding:10px 5px;
@@ -35,9 +36,16 @@ font-weight: 700;
 text-transform: capitalize;
 color:white;
 font-size:20px;
-margin:0 8px;
+margin:0 10px;
+transition: 1s;
+
+
 
 }
+.col-40 ul li a:hover{
+  color:aqua;
+}
+
 .col-30{
 float:right;
   padding:;
