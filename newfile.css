@@ -48,6 +48,20 @@ transition: 1s;
 
 .col-30{
 float:right;
-  padding:;
 
+padding-bottom: 40px;
+text-align: center;
+ margin-bottom: auto;
+}
+.col-30 a{
+  padding-bottom: 10px;
+  padding-right: 10px;
+  margin-bottom: 30px;
+  background:brown;
+  font-size: 15px;
+  font-weight: 200;
+  text-transform: capitalize;
+  float:left;
+ text-decoration: none;
+ color:white;
 }
